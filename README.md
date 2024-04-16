@@ -50,24 +50,19 @@ Medical charges tend to increase with age, indicating higher costs for older ind
 There's a direct relationship between BMI levels and medical charges, with higher BMI correlating with increased healthcare expenses.
 ## Recommendations
 
-### Improve Telemedicine Access:
-
-Make it easier for people to use telemedicine services by offering more options and explaining how to use them.
-### Promote Healthy Eating:
-
-Encourage people to eat healthier foods by sharing information and providing resources about good nutrition.
-### Provide Social Support:
-
-Offer help and companionship to those who need it, so they don't feel alone or isolated.
-### Raise Awareness for Healthy Living:
-
-Spread the word about healthy lifestyle choices through campaigns. This includes quitting smoking, learning about nutrition, and managing stress.
 ### Enhance Healthcare Access:
 
 Make it easier for everyone to get medical help by offering more telemedicine services and addressing issues like transportation and costs.
-### Support People Socially:
+Improve telemedicine services by offering more options and explaining patients how to use them.
+### Promote Healthy Eating:
 
-Set up programs and resources to help people who feel lonely or don't have family support.
+Encourage people to eat healthier foods by sharing information and providing resources about good nutrition.
+### Raise Awareness for Healthy Living:
+
+Spread the word about healthy lifestyle choices through campaigns. This includes quitting smoking, learning about nutrition, and managing stress.
+### Provide Social Support:
+
+Offer help and companionship to those who need it, so they don't feel alone or isolated.
 ### Improve the Environment:
 
 Make changes to the environment, like improving air quality and adding green spaces, to make people healthier.
