@@ -9,14 +9,12 @@ allocation, healthcare planning, and patient support services.
 
 ## Data Sources
 
-The dataset used in this project was obtained from Hospital ABC. It contains information about patients' demographics, lifestyle, health status, and medical expenses etc. The dataset also includes attributes
-such as age, gender, BMI, smoking status, region, as well as additional information like occupation, exercise frequency, chronic conditions, and more.
-
+The dataset used in this project was obtained from Hospital ABC. It includes a wide range of demographic factors, lifestyle-related details, health status indicators, insurance plan types, family medical histories, distance to the nearest hospital, primary care physician visits, and more.
 
 
 ## Preprocessing Steps
 
-The raw dataset underwent preprocessing steps, including imputing missing values using mean and mode, hadling outliers by replacing them with median, encoding categorical variables (e.g., Sex, Region), and scaling. The dataset was then split into training and testing sets.
+The raw dataset underwent several preprocessing steps to ensure data quality and consistency. These steps included imputing missing values using mean and mode, handling outliers by replacing them with the median, encoding categorical variables such as Sex and Region, and scaling the dataset using standardization.
 ## Model Selection
 
 I experimented with several regression models including Linear Regressor, Random Forest Regressor, Gradient Boosting Regressor and AdaBoost Regressor.
