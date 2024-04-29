@@ -1,6 +1,6 @@
 
 # Medical Cost Prediction
-<img src="image.jpg" alt="image">
+<img src="image.jpg" alt="image" width="500" height="360">
 This project predicts the medical cost of patients based on demographic factors, lifestyle-related
 information, health status, insurance plan type, family medical history, distance to the nearest
 hospital, primary care physician visits etc... The predicted price can help hospitals to optimize resource
