@@ -7,6 +7,11 @@ hospital, primary care physician visits etc... The predicted price can help hosp
 allocation, healthcare planning, and patient support services.
 
 
+Project link : 
+
+https://colab.research.google.com/github/FathimaThan/Medical_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb
+
+
 ## Data Sources
 
 The dataset used in this project was obtained from Hospital ABC. It includes a wide range of demographic factors, lifestyle-related details, health status indicators, insurance plan types, family medical histories, distance to the nearest hospital, primary care physician visits, and more.
