@@ -6,11 +6,7 @@ information, health status, insurance plan type, family medical history, distanc
 hospital, primary care physician visits etc... The predicted price can help hospitals to optimize resource
 allocation, healthcare planning, and patient support services.
 
-
-Project link : 
-
-https://colab.research.google.com/github/FathimaThan/Medical_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb
-
+#### 🚀 Explore this project interactively in Google Colab: [Open in Google Colab](https://colab.research.google.com/github/FathimaThan/Medical_Cost_Prediction/blob/main/Medical_Cost_Prediction.ipynb)
 
 ## Data Sources
 
